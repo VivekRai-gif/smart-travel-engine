@@ -1,7 +1,7 @@
 
 --- Page 1 ---
-Traveloop – Personalized Travel Planning 
-Made Easy
+Traveloop – Final Submission
+Personalized Travel Planning Made Easy
 The overarching vision for Traveloop is to become a personalized, intelligent, and 
 collaborative platform that transforms the way individuals plan and experience travel. 
 The platform aims to empower users to dream, design, and organize trips with ease by 
@@ -67,7 +67,7 @@ and a description.
 Trip name, start & end dates, trip description, cover photo upload (optional), 
 save button. 
  Description: List view of all trips created by the user with basic summary 
-data. 
+data .
  Purpose: Easily access and manage existing or upcoming trips. 
  Key Functionality/Components: 
 Trip cards showing name, date range, destination count, edit/view/delete actions. 
